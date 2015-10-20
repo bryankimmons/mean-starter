@@ -1,0 +1,14 @@
+{
+  "name": "mean-starter",
+  "version": "0.0.0",
+  "description": "MEAN stack starter application.",
+  "main": "app.js",
+  "author": "Bryan Kimmons",
+  "dependencies": {
+    "async": "~1.4.2",
+    "express": "~4.13.3",
+    "lodash": "~3.10.1",
+    "mongoose": "~4.1.11",
+    "request": "~2.65.0"
+  }
+}
